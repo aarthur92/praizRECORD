@@ -219,6 +219,11 @@
       }
 
       &.is-reviewing {
+        .claim {
+          span {
+            transform: translateY(-300%);
+          }
+        }        
         .intro {
           span {
             transform: translateY(-200%);
