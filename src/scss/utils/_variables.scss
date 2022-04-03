@@ -19,9 +19,9 @@ $font-color: $dark-grey;
 $main-gradient: linear-gradient(
   to right,
   $yellow 0%,
-  $purple 34%,
-  $orange 70%,
-  $light-orange 90%
+  $light-orange 25%,
+  $orange 60%,
+  $purple 90%
 );
 $red-gradient: linear-gradient(to right, $light-red 0%, $red 60%);
 $bezier-curve: cubic-bezier(0.6, -0.05, 0.01, 0.99);
