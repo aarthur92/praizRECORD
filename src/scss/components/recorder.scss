@@ -11,7 +11,7 @@
       position: absolute;
       left: 3%;
       top: 2%;
-      width: auto;
+      width: 150px;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -218,12 +218,7 @@
         }
       }
 
-      &.is-reviewing {
-        .claim {
-          span {
-            transform: translateY(-300%);
-          }
-        }        
+      &.is-reviewing {     
         .intro {
           span {
             transform: translateY(-200%);
